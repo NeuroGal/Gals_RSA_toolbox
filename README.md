@@ -3,7 +3,8 @@ Matlab code for various analyses which fall under the umbrella of Representation
 
 For an introduction to the RSA approach see for example: Kriegeskorte and Kievit (2013), https://doi.org/10.1016/j.tics.2013.06.007. The basic idea is to study neural representations by examining all pairwise distances between responses to different stimuli \ conditions, which are grouped together in a Representational Dissimilarity Matrix (RDM).
 
-This was written as part of the analysis for the following manuscript (so please cite if you use it): Vishne et al., Cell Reports 2023, 'Distinct Ventral Stream and Prefrontal Cortex Representational Dynamics during Sustained Conscious Visual Perception' (biorxiv DOI, to be updated when formally published): https://doi.org/10.1101/2022.08.02.502469. 
+This was written as part of the analysis for the following manuscript (so please cite if you use it):
+Vishne et al., Cell Reports 2023, 'Distinct Ventral Stream and Prefrontal Cortex Representational Dynamics during Sustained Conscious Visual Perception' https://doi.org/10.1016/j.celrep.2023.112752.
 
 
 The toolbox includes three parts:
